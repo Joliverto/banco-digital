@@ -1,6 +1,6 @@
 # banco-digital
 
-Olá — este repositório contém um projeto pessoal que desenvolvi para estudar e praticar conceitos fundamentais de engenharia de software com Python. O objetivo principal foi construir um sistema bancário simples, porém bem modelado, que demonstre claramente minhas escolhas de design, organização e atenção à qualidade de código.
+Olá, este repositório contém um projeto pessoal que desenvolvi para estudar e praticar conceitos fundamentais de engenharia de software com Python. O objetivo principal foi construir um sistema bancário simples, porém bem modelado, que demonstre claramente minhas escolhas de design, organização e atenção à qualidade de código.
 
 ## Sobre o projeto
 
